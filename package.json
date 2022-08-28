@@ -1,0 +1,23 @@
+{
+  "name": "raw-node",
+  "version": "1.0.0",
+  "description": "A simple project using Raw Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiyaadHossain/Raw-Node-Project.git"
+  },
+  "keywords": ["node", "javascript"],
+  "author": "Riyad Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiyaadHossain/Raw-Node-Project/issues"
+  },
+  "homepage": "https://github.com/RiyaadHossain/Raw-Node-Project#readme",
+  "dependencies": {
+    "node": "^16.17.0"
+  }
+}
